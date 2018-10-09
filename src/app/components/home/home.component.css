@@ -1,8 +1,12 @@
 h1{
-    color: steelblue;
+    color: white;
     font-weight: 700;
     padding: 1em 0;
 }
 figure{
     padding: 1em 0 2em 0;
+}
+.container-fluid{
+    background-color: black;
+    width: 100%;
 }

@@ -1,0 +1,13 @@
+.container-fluid{
+    background-color:black;
+      color: white;
+    }
+    input{
+      margin: 0px;
+      padding: 0px;
+      width:100%;
+    }
+    .mat-card{
+     background-color: steelblue;
+     margin: 0.5em 0.5em;
+    }
