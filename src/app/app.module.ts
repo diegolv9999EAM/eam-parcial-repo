@@ -12,6 +12,7 @@ import { HomeComponent } from './components/home/home.component';
 import { LoginComponent } from './components/login/login.component';
 import { SignupComponent } from './components/signup/signup.component';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
+import { InfoComponent } from './components/info/info.component';
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import { DashboardComponent } from './components/dashboard/dashboard.component';
     HomeComponent,
     LoginComponent,
     SignupComponent,
-    DashboardComponent
+    DashboardComponent,
+    InfoComponent
   
   ],
   imports: [

@@ -10,3 +10,18 @@ figure{
     background-color: black;
     width: 100%;
 }
+.pie{
+    color: white;
+    text-align: center;
+}
+.boton{
+    margin-right: 1em;   
+    margin-bottom: 5em;
+}
+.boton:hover{
+   color: blue;
+   background-color: white;
+}
+.logoFT{
+    width: 20%;
+}

@@ -1,11 +1,10 @@
-<mat-toolbar color="primary">INICIO</mat-toolbar>
+<mat-toolbar color="primary"><i class="material-icons">
+  account_circle
+  </i>  Cerrar sesion</mat-toolbar>
 <div class="container-fluid">
   <div class="row center-xs">
-         <h1 class="col-xs-12">
-                INGRESE UN PRODUCTO
-         </h1>
          <figure class="col-xs-12">
-            <img  alt="Angular Logo" src="../assets/img/logo.png.png">
+            <img class="logoFT" alt="Angular Logo" src="../assets/img/logoFin.png">
       </figure>
      <mat-card class="col-xs-12 col-sm-6 col-md-3">       
              <input matInput placeholder="NOMBRE DEL PRODUCTO">
@@ -20,8 +19,10 @@
  <mat-card class="col-xs-12 col-sm-6 col-md-3"> 
     <input matInput placeholder="ESPECIFICACIONES">
    </mat-card>
-   <mat-card class="col-xs-12 col-sm-6 col-md-3"> 
-      <button mat-raised-button color="primary" routerLink="/">CREAR</button>
+   <mat-card class="col-xs-12 col-sm-6 col-md-3" id="boton"> 
+      <button class="boton" mat-raised-button color="primary" routerLink="/"><i class="material-icons">
+        check_circle
+        </i>CREAR</button>
   </mat-card>
  </div>
 </div>

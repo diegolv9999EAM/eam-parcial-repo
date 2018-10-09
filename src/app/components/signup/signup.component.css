@@ -6,8 +6,21 @@
       margin: 0px;
       padding: 0px;
       width:100%;
+      border-radius: 1.5em;
     }
     .mat-card{
-     background-color: steelblue;
+      background-color: rgba(0, 0, 255, 0.712);
+      border-radius: 1.5em;
      margin: 0.5em 0.5em;
     }
+    .logoFT{
+      padding-top: 1em;
+      width: 20%;
+  }
+  #boton{
+    background-color: white;
+  }
+  .boton:hover{
+    color: blue;
+    background-color: white;
+  }
