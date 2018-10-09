@@ -1,5 +1,8 @@
 .container-fluid{
       color: white;
+      background-image: url('https://media.giphy.com/media/xT9DPEPymVhAwi0mJy/giphy.gif');
+  background-repeat: repeat-x;
+  background-size: 50% 100%;
     }
     input{
       margin: 0px;

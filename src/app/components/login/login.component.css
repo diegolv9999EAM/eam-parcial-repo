@@ -1,8 +1,10 @@
 .container-fluid{
-  background-color: black;
+  /*background-color: black;*/
   color: white;
-  /*background-image: url('https://media.giphy.com/media/26uf8tQf6WVQPxP9u/giphy.gif');
-  background-repeat: inherit;*/
+  background-image: url('https://media.giphy.com/media/xT9DPEPymVhAwi0mJy/giphy.gif');
+  background-repeat: repeat-x;
+  background-size: 50% 100%;
+  /*opacity: 0.2;*/
   }
   input{
     margin: 0px;
