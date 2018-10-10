@@ -4,7 +4,7 @@
   background-repeat: repeat-x;
   background-size: 50% 100%;
     }
-    input{
+    input,textarea{
       margin: 0px;
       padding: 0px;
       width:100%;
@@ -28,5 +28,8 @@
   }
   .boton:hover{
     color: blue;
-    background-color: white;
+    background-color: gold;
+  }
+  .menu{
+    background-color: gold;
   }

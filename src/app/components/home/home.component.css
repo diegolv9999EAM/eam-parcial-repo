@@ -6,7 +6,7 @@ figure{
     padding: 1em 0 2em 0;
 }
 .container-fluid{
-    background-color: black;
+    background-color: yellowgreen;
     width: 100%;
 }
 .pie{
@@ -19,7 +19,7 @@ figure{
 }
 .boton:hover{
    color: blue;
-   background-color: white;
+   background-color: gold;
 }
 .logoFT{
     width: 20%;

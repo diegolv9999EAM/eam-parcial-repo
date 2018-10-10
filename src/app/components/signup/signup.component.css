@@ -12,7 +12,7 @@
       border-radius: 1.5em;
     }
     .mat-card{
-      background-color: rgba(0, 0, 255, 0.712);
+      background-color: blue;
       border-radius: 1.5em;
      margin: 0.5em 0.5em;
     }
@@ -25,6 +25,6 @@
   }
   .boton:hover{
     color: blue;
-    background-color: white;
+    background-color: gold;
   }
   
